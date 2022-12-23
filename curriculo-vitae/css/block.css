@@ -1,0 +1,35 @@
+.block{
+    width: 90%;
+    background-color: white;
+    padding: 20px;
+    margin: 5px auto;
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, .16), 0 2px 10px 0 rgba(0, 0, 0, .12);
+}
+
+.headline{
+    color: rgba(0, 0, 0, .87);
+    font-size: 15px;
+    font-weight: 300;
+}
+
+.subheadline{
+    color: rgba(0, 0, 0, .54);
+    font-size: 14px;
+    font-weight: 300;
+}
+
+.info{
+    color: rgba(0, 0, 0, .87);
+    font-size: 14px;
+    margin-top: 20px;
+}
+
+
+.curso{
+    margin-left: 10px;
+}
+
+.curso li {
+    padding: 5px;
+}
+
